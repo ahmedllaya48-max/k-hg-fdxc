@@ -1,0 +1,8 @@
+{
+  "appId": "com.waei.cyberlearning",
+  "appName": "وَعْي",
+  "webDir": "dist",
+  "android": {
+    "path": "android"
+  }
+}
